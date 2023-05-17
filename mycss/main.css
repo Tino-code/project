@@ -1,0 +1,41 @@
+nav{
+    background-color: hsla(340, 87%, 56%, 0.514);
+    
+}
+
+.bg-custom{
+    background: hsla(192, 89%, 64%, 0.479);
+    height: 700px;
+}
+.vid-custom{
+    border: dashed palevioletred 12px;
+    border-radius:50%;
+}
+.txt-justify{
+    text-align: justify;
+}
+
+.carslide{
+    position: absolute;
+    height: 200px;
+
+}
+
+.slide .item img{
+
+   width: 388;
+   height: 400;
+}
+.h2-img{
+    background-color: hsla(46, 78%, 55%, 0.473);
+   position: relative;
+    color: hsla(60, 1%, 33%, 0.658);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.logo img{
+    width: 30%;
+    height: 30%;
+    
+}

@@ -1,0 +1,32 @@
+.image-holder {
+    
+    height: 400px;
+    background-color: #dddddd;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-image: url(./assets/teama.jpeg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+
+}
+
+.image-holder:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.round{
+    border-radius: 50%;
+}
+.bg-lig{
+    background-color: hsla(130, 81%, 60%, 0.404);
+     
+}
+
+.man{
+
+    height: 300px;
+    background: #c4aaaa;
+}
